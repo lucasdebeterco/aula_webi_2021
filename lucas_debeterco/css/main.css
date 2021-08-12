@@ -1,0 +1,27 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: black; padding: 10px; text-decoration: none; border: 1px solid rgb(218, 218, 218);
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.links-paginas {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
